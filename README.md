@@ -1,6 +1,10 @@
 # ARC-210 Radio Panel for DCS C-130J — October 30, 2026
 
-**Last updated: October 30, 2026 at 9:41:41 PM MDT (America/Denver)**
+**Last updated: October 30, 2026 at 9:46 PM MDT (America/Denver)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dgdimick/ARC-210-DCS-Display/master/images/ARC-210-Face%20Plate.jpg" width="300" alt="ARC-210 Face Plate">
+</p>
 
 I’m planning C-130J support for my [existing ARC-210 radio panel](https://github.com/dgdimick/ARC-210-DCS-Display). After comparing the panel, I plan to reuse the same faceplate, controls, display, PCBs, and printed parts. The work here will focus on the C-130J firmware, DCS-BIOS mappings, and menu system.
 
